@@ -1,0 +1,1 @@
+FROM dtandersen/factorio:latest
